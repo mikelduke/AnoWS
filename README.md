@@ -1,2 +1,5 @@
 # AnoWS
-Ananotated Webservice an Annotation based nanoHTTPD webservice framework
+##Ananotated Webservice
+
+An Annotation based nanoHTTPD webservice framework
+
